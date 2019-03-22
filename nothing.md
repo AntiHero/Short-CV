@@ -2,7 +2,7 @@
 title: Complex yaml example
 description: You can use the front-matter module to convert this
 tags: [example: example2, yaml, node]
-folded-text: |
+folded-text: 
   There once was a man from Darjeeling
   Who got on a bus bound for Ealing
       It said on the door
