@@ -1,7 +1,7 @@
 ---
 title: Complex yaml example
 description: You can use the front-matter module to convert this
-tags: [example, yaml, node]
+tags: [example: example2, yaml, node]
 folded-text: |
   There once was a man from Darjeeling
   Who got on a bus bound for Ealing
