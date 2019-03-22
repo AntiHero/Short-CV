@@ -1,7 +1,7 @@
 ---
 title: Three dashes marks the spot
 tags:
-  - yaml: no: yes
+  - yaml: fsfsfs
   - front-matter
   - dashes
 expaned-description: with some --- crazy stuff in it
