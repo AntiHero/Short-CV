@@ -1,12 +1,14 @@
-a_sequence:
-    - 'Item 1'
-    - 'Item 2'
-    - 0.5
-    - 'Item 4'
-    -
-        key: value
-        another_key: another_value
-    -
-        - 'This is a sequence'
-        - 'inside another sequence'
-    - "- - Nested sequence indicators\n- can be collapsed"
+---
+title: Three dashes marks the spot
+tags:
+  - yaml
+  - front-matter
+  - dashes
+expaned-description: with some --- crazy stuff in it
+---
+
+don't break
+
+---
+
+Also this shouldn't be a problem
