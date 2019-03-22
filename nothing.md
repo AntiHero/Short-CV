@@ -8,7 +8,7 @@ folded-text:
       It said on the door
       "Please don't spit on the floor"
   So he carefully spat on the ceiling
-wrapped-text: >
+wrapped-text: 
   Wrapped text
   will be folded
   into a single
